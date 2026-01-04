@@ -1,7 +1,4 @@
 <div align="center">
-  <a href="https://github.com/Srjeff27/api-quran-indonesia">
-    <img src="https://www.flaticon.com/free-icon/quran_4358771?term=quran&page=1&position=11&origin=tag&related_id=4358771" alt="Quran API ID Logo" width="200">
-  </a>
   
   <h1>🕌 Quran API Indonesia</h1>
   
