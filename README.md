@@ -362,7 +362,7 @@ Jika API ini bermanfaat untuk proyek Anda, pertimbangkan untuk:
 
 <div align="center">
   <p>
-    <strong>Dibuat dengan ❤️ untuk kemudahan akses Al-Quran digital di Indonesia</strong>
+    <strong>Dibuat untuk kemudahan akses Al-Quran digital di Indonesia</strong>
   </p>
   <p>
     <em>"Bacalah dengan (menyebut) nama Tuhanmu Yang menciptakan"</em><br>
