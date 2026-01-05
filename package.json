@@ -47,6 +47,6 @@
     "lint-staged": "^12.5.0",
     "nodemon": "^2.0.22",
     "prettier": "^2.8.8",
-    "supertest": "^6.3.4"
+    "supertest": "^7.1.4"
   }
 }
